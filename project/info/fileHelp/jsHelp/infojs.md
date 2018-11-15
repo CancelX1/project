@@ -1,0 +1,1 @@
+this is the functions or scripts of the webpage like buttons and any thing thats "alive" or dose something

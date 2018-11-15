@@ -1,0 +1,1 @@
+source from where you return your pictures in html this can be called through discord but i would highly suggest getting them from your source.
